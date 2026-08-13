@@ -294,7 +294,7 @@ if check_password():
                     - Kekurangan.
                     - Alasan model tersebut paling sesuai dengan TP.
                     
-                    Setelah itu BERHENTI. Jangan membuat RP.
+                    Setelah itu BERHENTI dan berikan catatan (Pilih Model yang Kamu suka, dan masukkan ke Kolom Model Pembelajaran di atas). Jangan membuat RP.
                     """
                 else:
                     prompt = f"""
