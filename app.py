@@ -114,7 +114,7 @@ if check_password():
             st.warning("Mohon isi Capaian Pembelajaran, Tujuan Pembelajaran, dan Materi terlebih dahulu.")
         else:
             with st.spinner("AI sedang berpikir dan menyusun dokumen Anda..."):
-                model = genai.GenerativeModel('gemini-1.5-flash')
+                model = genai.GenerativeModel('gemini-3-flash-preview')
                 
                 if model_pembelajaran.strip() == "":
                     prompt = f"""
