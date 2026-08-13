@@ -308,13 +308,13 @@ if check_password():
                     Lalu susun Rencana Pembelajaran (RP) UTUH menggunakan format TABEL MARKDOWN STANDAR.
                     
                     ## A. IDENTITAS
-                    Tulis ulang identitas di atas.
+                    Susun dalam Tabel dan Tulis ulang identitas di atas.
                     
                     ## B. IDENTIFIKASI
-                    Susun dalam tabel yang memuat: Kesiapan Murid, Materi Pelajaran (Faktual, Konseptual, dll), Dimensi Profil Lulusan (DPL), Topik Panca Cinta (WAJIB memuat Cinta kepada Allah dan Rasul-Nya serta Cinta kepada Ilmu), dan Materi Integrasi KBC secara naratif.
+                    Susun dalam tabel yang hanya 2 kolom utk masing-masing sub bagian yang memuat: Kesiapan Murid, Materi Pelajaran (Faktual, Konseptual, dll), Dimensi Profil Lulusan (DPL), Topik Panca Cinta (WAJIB memuat Cinta kepada Allah dan Rasul-Nya serta Cinta kepada Ilmu), dan Materi Integrasi KBC secara naratif.
                     
                     ## C. DESAIN PEMBELAJARAN
-                    Susun dalam tabel yang memuat: Capaian Pembelajaran, Lintas Disiplin Ilmu, Tujuan Pembelajaran, Topik, Praktik Pedagogis, Kemitraan, Lingkungan (fisik, budaya, digital), dan Pemanfaatan Digital beserta fungsi pedagogisnya.
+                    Susun dalam tabel yang hanya 2 kolom utk masing-masing sub bagian yang memuat: Capaian Pembelajaran, Lintas Disiplin Ilmu, Tujuan Pembelajaran, Topik, Praktik Pedagogis, Kemitraan, Lingkungan (fisik, budaya, digital), dan Pemanfaatan Digital beserta fungsi pedagogisnya.
                     
                     ## D. PENGALAMAN BELAJAR
                     Buat sejumlah {jumlah_pertemuan} tabel TERPISAH untuk setiap pertemuan.
@@ -324,10 +324,10 @@ if check_password():
                     Pada kolom Pengalaman Belajar tuliskan SATU NARASI UTUH yang memuat aktivitas guru, murid, tujuan pedagogis, hubungan TP, dan integrasi KBC. Jangan pisahkan elemen ini ke dalam kolom berbeda.
                     
                     ## E. ASESMEN
-                    Susun dalam tabel yang berisi Asesmen Awal, Proses, dan Akhir.
+                    Susun dalam tabel yang hanya 2 kolom utk masing-masing sub bagian yang berisi Asesmen Awal, Proses, dan Akhir.
                     
                     ATURAN KHUSUS:
-                    - Format TP: KKO + Materi + Kondisi + Kriteria + Penguatan Nilai KBC.
+                    - Format TP: KKO + Materi + Penguatan Nilai KBC.
                     - Konsistensi Nilai KBC wajib dijaga dari awal hingga Refleksi.
                     - Hindari kalimat pasif/membosankan seperti "Guru menjelaskan materi". Jelaskan APA, MENGAPA, dan Bagaimana.
                     - Jangan tampilkan validasi internal di hasil akhir.
